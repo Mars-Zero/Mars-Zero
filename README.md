@@ -37,6 +37,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+![](https://github-readme-stats.vercel.app/api?username=Mars-Zero&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mars-Zero&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mars-Zero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ###
 
